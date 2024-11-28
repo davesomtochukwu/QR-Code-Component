@@ -22,15 +22,18 @@ body {
   height: 960px;
 }
 
+/* 
 .attribution {
   font-size: 11px;
   text-align: center;
-  /* align-self:  */
+  align-self: 
 }
 
 .attribution a {
   color: hsl(228, 45%, 44%);
-}
+} 
+
+*/
 
 .container {
   padding: 16px 16px 40px 16px;
